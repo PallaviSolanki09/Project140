@@ -1,0 +1,27 @@
+.heading{
+    width: 100%;
+    margin-top: 0%;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.heading h3{
+    margin-left: 7%;
+    display: inline;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bolder;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bolder;
+}
+canvas{
+    border: 2px solid rgb(255, 255, 255);
+    box-shadow: 3px 3px 30px white;
+}
